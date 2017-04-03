@@ -1,0 +1,19 @@
+{
+  "name": "Next Train",
+  "version": "1.0.0",
+  "description": "Alexa will tell you when next Metrolink train will leave claremont",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "Metrolink"
+  ],
+  "author": "Fernando Montes",
+  "license": "WTFPL",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
